@@ -1,0 +1,38 @@
+.cent{
+    width: 80%;
+}
+.pro{
+    margin-left: 150px;
+    line-height: 50px;
+}
+.largetxt{
+    font-size: 1.3em;
+}
+.stbttn{
+    margin-left: 500px;
+}
+.signup
+{
+    padding: 10px;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid purple;
+    border-radius: 10px;
+}
+.fname{
+    width: 500px;
+}
+.fpass{
+    width: 600px;
+}
+.fmail{
+    width: 500px;
+}
+.gen1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#subm{
+    margin-left: 300px; 
+}

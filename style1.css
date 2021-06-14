@@ -1,0 +1,77 @@
+header{
+    padding: 5px 5px 5px 5px;
+}
+.logo ul{
+    list-style-type: none;
+    float:left;
+}
+.logo li{
+    float:left;
+
+}
+.login ul{
+    list-style-type: none;
+    float:right;
+}
+.login li{
+    float:right;
+    padding: 10px;
+}
+.b1{
+    text-align: center;
+}
+.drop{
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.b {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.navi ul{
+    list-style-type: none;
+    float:inline-start;
+    
+}
+.navi li{
+    float: left;
+    padding-right:10px;
+    padding-left: 10px;
+}
+.quicklinks ul{
+    list-style-type: none;
+
+}
+.quicklinks li{
+    padding-bottom: 10px;
+}
+.follow ul{
+    list-style-type: none;
+    float: right;
+
+}
+.follow li{
+    padding: : 20px;
+    float: left;
+}
+
+.lolo{
+    padding-right: 5px;
+}
+.team img{
+    height:50px;
+    width: 50px:
+}
+.mainpage{
+    margin: auto;
+}
+
+.bsearch ul{
+    float: right;
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.btn-toolbar{
+    float: inherit;
+}
